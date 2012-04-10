@@ -1,0 +1,70 @@
+name: Troll
+main: com.gmail.matthewkeating007.Troll.Troll
+version: 1.0
+commands:
+  troll:
+    description: Punish those who dare to misbehave.
+    usage: /troll
+    permission: Troll.troll
+    permission-message: You don't have permission!
+  spam:
+    description: Need we say more? Need we say more? Need we say more?
+    usage: /spam
+    permission: Troll.spam
+    permission-message: You don't have permission! 
+  murder:
+    description: Kill a player
+    usage: /murder
+    permission: Troll.murder
+    permission-message: You don't have permission!
+  ignite:
+    description: Light player on fire.
+    usage: /ignite
+    permission: Troll.ignite
+    permission-message: You don't have permission!
+  launch:
+    description: Launch player into air!
+    usage: /launch
+    permission: Troll.launch
+    permission-message: You don't have permission!
+  fake:
+    description: Fake a console command
+    usage: /fake
+    permission: Troll.fake
+    permission-message: You don't have permission!
+  smite:
+    description: Hit player with a strike of lightning
+    usage: /smite
+    permission: Troll.smite
+    permission-message: You don't have permission!
+  spank:
+    description: Slap those naughty miners!
+    usage: /spank
+    permission: Troll.spank
+    permission-message: You don't have permission!
+  blowup:
+    description: Blow players up with TNT
+    usage: /blowup
+    permission: Troll.blowup
+    permission-message: You don't have permission!
+  exile:
+    description: Teleport player to random location.
+    usage: /exile
+    permission: Troll.exile
+    permission-message: You don't have permission!
+  freeze:
+    description: Freeze player to a spot.
+    usage: /freeze
+    permission: Troll.freeze
+    permission-message: You don't have permission!
+  melt:
+    description: Melts a player in a block of lava.
+    usage: /melt
+    permission: Troll.melt
+    permission-message: You don't have permission!
+  woody:
+    description: Generates tree at player location
+    usage: /woody
+    permission: Troll.woody
+    permission-message: You don't have permission!
+  
